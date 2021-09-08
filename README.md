@@ -67,5 +67,8 @@ Este diagrama esta en el paquete ___edu.escuelaing.arem.Calculator___ con una cl
 > - Se realizaron 3 Pruebas por programa.
 > - Las pruebas de HttpServer se verifican entrando en http://127.0.0.1:35000/TestHttpServer1.html, http://127.0.0.1:35000/TestHttpServer2.html ó http://127.0.0.1:35000/TestHttpServer3.html .
 
+## Artículo y Evaluación
+[Artículo del Taller 2](Articulo-Taller2.pdf)
+
 ## JavaDoc:
 [JavaDoc - ClienteServer](JavaDocs/index.html)
