@@ -23,7 +23,7 @@ Este diagrama esta en el paquete ___edu.escuelaing.arem.URLComponents___ con una
 ### Descripción de URLBrowser.java
 Este programa lee el contenido de la ___URL___ y lo extrae archivando la información en un archivo con extensión ___.html___ .
 #### Diagrama URLBrowser.java
-![Diagrama Clases](Image/DiagramaClase1.jpg)<br>
+![Diagrama Clases](Image/Image1.jpg)<br>
 Este diagrama esta en el paquete ___edu.escuelaing.arem.AppBrowser___ con una clase, pues es de ejcución unica.
 #### Ejecución
 > 1. Ejecución del programa.
@@ -34,7 +34,7 @@ Este diagrama esta en el paquete ___edu.escuelaing.arem.AppBrowser___ con una cl
 ### Descripción de HttpServer.java
 Este es un programa que ejecuta un ___servidor HTTP___ en el cual se podran ejecutar diferentes archivos dentro de este.
 #### Diagrama HttpServer.java
-![Diagrama Clases](Image/DiagramaClase4.jpg)<br>
+![Diagrama Clases](Image/Image4.jpg)<br>
 Este diagrama esta en el paquete ___edu.escuelaing.arem.HttpServer___ con una clase, pues es de ejcución unica.
 #### Ejecución
 > 1. Ejecución del programa.
@@ -43,7 +43,7 @@ Este diagrama esta en el paquete ___edu.escuelaing.arem.HttpServer___ con una cl
 ### Descripción de ClientServer.java
 Este programa crea un cliente el cual interactua con el servidor activo en ese momento.
 #### Diagrama ClientServer.java
-![Diagrama Clases](Image/DiagramaClase3.jpg)<br>
+![Diagrama Clases](Image/Image3.jpg)<br>
 Este diagrama esta en el paquete ___edu.escuelaing.arem.ClientServer___ con una clase, pues es de ejcución unica.
 #### Ejecución
 > 1. Ejecución del programa.
@@ -53,7 +53,7 @@ Este diagrama esta en el paquete ___edu.escuelaing.arem.ClientServer___ con una 
 ### Descripción de Calculator.java
 Este es un programa en el cual se da el resultado del ___cuadrado del número___ asigando.
 #### Diagrama Calculator.java
-![Diagrama Clases](Image/DiagramaClase2.jpg)<br>
+![Diagrama Clases](Image/Image2.jpg)<br>
 Este diagrama esta en el paquete ___edu.escuelaing.arem.Calculator___ con una clase, aunque necesita la ejecución de ___EchoClient.java___ no tienen un atributo en común.
 #### Ejecución
 > 1. Ejecución del programa.
