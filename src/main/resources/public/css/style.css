@@ -1,0 +1,18 @@
+body {background-color:rgba(14,11,22,1); font-family:Arial,Helvetica,sans-serif;}
+
+.title {color:rgba(255,255,255,1); background-color:rgba(71,23,246,1);border-radius:20px; text-align:center;}
+.subTitle {color:rgba(162,57,202,1); text-align:center;}
+    .sub0 {color:rgba(162,57,202,1);}
+    .sub2 {color:rgba(255,255,255,1); background-color:rgba(71,23,246,1); width:620px; margin:0 auto; border-top-left-radius:40px; border-top-right-radius:40px;}
+
+.numberSelect {color:rgba(255,255,255,1); font-size:40px; text-align:center;}
+
+.blockInput {text-align: center;}
+    .sub1 {color:rgba(255,255,255,1);}
+    .inputUser {background-color:rgba(255,255,255,1); border-radius:20px; font-size:16px; font-weight:bold; text-align:center;}
+    .inputButton {background-color:white; width:100px; border-radius:20px; font-weight:bold;}
+
+.reset {color:rgba(255,255,255,1);}
+
+.history {background-color:rgba(255,255,255,1); padding:10px; display:flex; width:600px; height:200px; overflow-x:hidden; overflow-y:auto; text-align:center; border-bottom-left-radius:40px; margin:0 auto;}
+    .optionHistory {margin-right:120px; margin-top:-5px; margin-bottom:20px; text-align:center;}

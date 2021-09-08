@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="style.css"></link>
+    <title>Points & Fames</title>
+  </head>
+  <body>
+    <h1 class="title">POINTS & FAMES</h1>
+
+    <h2 class="subTitle sub0">Adivina el numero de 4 digitos</h2>
+    <h2 class="numberSelect" id="numberUnlock">****</h2>
+    <div class="blockInput">
+        <form name="form" action="" method="get" onKeyPress="if(event.keyCode == 13) event.returnValue = false;"></form>
+            <h4 class="subTitle sub1">Escribe tu prediccion</h4>
+            <input class="inputUser" type="text" name="number" required minlength="4" maxlength="4" size="20"/>
+        </form>
+        <button class="inputButton" onclick="getNumberUser()">Verificar</button>
+        <br></br>
+        <a class="reset" href="javascript:document.location.reload();">Volver a jugar</a>
+        <br></br>
+    </div>
+
+    <h2 class="subTitle sub2">Historial</h2>
+    <div class="history" id="scrollHistory">
+        <h4 class="optionHistory" id="attempt"></h4>
+        <h4 class="optionHistory" id="prediction"></h4>
+        <h4 class="optionHistory" id="point"></h4>
+        <h4 class="optionHistory" id="fame"></h4>
+    </div>
+    <script type="text/javascript" src="picas.js"></script>
+  </body>
+</html>
