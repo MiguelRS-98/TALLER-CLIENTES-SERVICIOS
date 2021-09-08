@@ -13,7 +13,7 @@
 ### Descripción de URLComponents.java
 Este programa lee una URL a la cual se podra extraer y mostrar los protocolos de esta, en total 8 protocolos ___(getProtocol, getAuthority, getHost, getPort, getPath, getQuery, getFile, getRef)___
 #### Diagrama URLComponents.java
-![Diagrama Clases](Image/DiagramaClase5.jpg)<br>
+![Diagrama Clases](Image/Image5.jpg)<br>
 Este diagrama esta en el paquete ___edu.escuelaing.arem.URLComponents___ con una clase, pues es de ejcución unica.
 #### Ejecución
 > 1. Ejecución del programa.
